@@ -1,6 +1,6 @@
 <!-- 🌟 Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hey+there+👋;I'm+Jeyhasri+D+💻;ECE+Student+|+Innovator+|+Developer;Building+Smart+Solutions+with+Code+⚙️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hey+there+👋+I'm+Jeyhasri+D+💻; ECE+Student+|+Innovator+|+Developer; Building+Smart+Solutions+with+Code+⚙️" alt="Typing SVG" />
 </h1>
 
 <!-- 🌐 Social Media Links -->
