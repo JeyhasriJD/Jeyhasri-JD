@@ -8,7 +8,7 @@
   <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_LINK/" target="_blank">
+  <a href="https://www.linkedin.com/in/jeyhasri-d-04b3a225a//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
