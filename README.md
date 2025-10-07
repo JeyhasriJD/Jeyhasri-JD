@@ -1,78 +1,112 @@
-<!-- README.md -->
+<!-- 🌟 Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hey+there+👋;I'm+Jeyhasri.D+💫;ECE+Student+|+Innovator+|+Athlete+🏃‍♀️;Tech+Enthusiast+|+Hackathon+Finalist+🏆;Building+Smart+Solutions+with+Purpose+💡" alt="Typing SVG" />
+</h1>
 
-<div align="center">
-
-  <!-- Animated header GIF (wave) -->
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="wave" width="120" style="margin-top:12px"/>
-
-  # Hi, I’m Jeyhasri.D 👋
-  <sub>3rd Year ECE • Aspiring embedded systems & IoT dev • Athlete • Hackathon finalist</sub>
-
-  <!-- Typing animation (SVG) -->
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=1500&color=2b7a78&width=600&lines=Building+SecureShe+%E2%9A%A1;Designing+real-time+embedded+systems;Preparing+for+Accenture+Hack2Skill" alt="Typing animation"/>
-  </p>
-
-  <!-- Quick badges -->
-  <p>
-    <img src="https://img.shields.io/badge/📚-ECE-blue" alt="ece badge"/>
-    <img src="https://img.shields.io/badge/🏆-Hackathon%20Finalist-orange" alt="hack badge"/>
-    <img src="https://img.shields.io/badge/💼-Student%20Secretary-success" alt="secretary badge"/>
-  </p>
-
-</div>
-
----
-
-## 🔭 About me
-I design compact, cost-effective embedded systems focused on women’s safety — currently building **SecureShe**, an adaptive wearable that sends SOS alerts automatically (biometrics + context) or manually (panic button). I like presenting projects (won presentations & ideathons), competing in Hackathons, and building practical prototypes.
-
-## 💡 Projects & highlights
-- **SecureShe** — Smart IntelliProtect device for real-time threat detection (keychain/pendant form).  
-- **Smart Home Automation**, **Smart Agriculture Monitoring System**, **TectoseismoAIGuard**.  
-- Finalist — 48hr Pondy Hackathon (SYNTAX ERROR 404). Vice Head Girl (10th), many sports awards.
-
----
-
-## 📈 GitHub Stats
-
-<!-- GitHub Readme Stats (animated-like, live SVG) -->
+<!-- 💫 Social Links -->
 <p align="center">
-  <img alt="Jeyhasri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_LINK/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
-<!-- Top languages -->
+🎓 Electronics and Communication Engineering Student @ **IFET College of Engineering**  
+⚡ Passionate about **Embedded Systems, IoT & Real-time Automation**  
+🚀 **Accenture Hack2Skill** Participant | **Smart India Hackathon Finalist**  
+🏆 Winner of multiple **Tech & Sports Competitions**  
+💖 Innovating through passion, performance, and persistence.  
+
+<img align="right" width="360" height="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhrZGFuNGM1MmU1N3BjNXM1NGx4aHZ0aW5vNmtyOGc0ZWtpOGZtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tIeCLkB8geYtW/giphy.gif">
+
+---
+
+### 👩‍💻 **About Me**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00C7B7&width=600&lines=Embedded+System+Designer+⚙️;IoT+Developer+💡;Innovator+%26+Problem+Solver+🧠;Tech+Presenter+%26+Event+Organizer+🎤;Hackathon+Performer+🏆)](https://git.io/typing-svg)
+
+- 💡 Developer of **SecureShe** — an adaptive smart wearable for real-time safety  
+- ⚙️ Experienced in **Arduino**, **ESP32**, and **Sensor Integration**  
+- 🌐 Love blending **Hardware + AI** for social impact  
+- 🗣️ Skilled in **Presentation, Public Speaking & Team Leadership**  
+- 🎨 Balanced in **Creativity + Logic**, making tech feel human  
+
+---
+
+### 🚀 **Featured Projects**
+🔹 **SecureShe** — Smart IntelliProtect wearable for real-time threat detection and SOS alerts  
+🔹 **ViroShield** — Intelligent Door Automation with Real-Time Temperature Screening  
+🔹 **Smart Home Automation** — Energy-efficient control via IoT  
+🔹 **TectoseismoAIGuard** — AI-based Seismic Risk Monitoring System  
+🔹 **Wireless Notice Board** — Instant data display using IoT modules  
+
+---
+
+### 🛠️ **Languages & Tools**
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
+  <img src="https://img.icons8.com/color/48/c-programming.png" title="C"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/>
+  <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
+  <img src="https://img.icons8.com/color/48/arduino.png" title="Arduino"/>
+  <img src="https://img.icons8.com/color/48/raspberry-pi.png" title="Raspberry Pi"/>
+  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
+  <img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow"/>
 </p>
 
 ---
 
-## 🔁 Activity Graph (contribution-like)
+### 🧰 **Tools & IDEs**
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&area=true" alt="activity graph" />
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
+  <img src="https://img.icons8.com/color/48/eclipse.png" title="Eclipse"/>
+  <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
+  <img src="https://img.icons8.com/color/48/figma--v1.png" title="Figma"/>
+  <img src="https://img.icons8.com/color/48/adobe-photoshop.png" title="Photoshop"/>
+  <img src="https://img.icons8.com/fluency/48/arduino-ide.png" title="Arduino IDE"/>
 </p>
 
 ---
 
-## 🤝 Connect
-- Email: `your.email@example.com`  
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/YOUR_LINKEDIN/)  
-- Team: **Incognito** — 2 girls & 2 boys — focused on innovative solutions.
+### 💻 **Workspace Specs**
+<img height="30" src="https://img.shields.io/badge/Windows-11_Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  
+<img height="30" src="https://img.shields.io/badge/ESP32-NodeMCU-FF6F00?style=for-the-badge&logo=espressif&logoColor=white"/>  
+<img height="30" src="https://img.shields.io/badge/Arduino-Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>  
 
 ---
 
-## 🔧 How to use this README (quick)
-1. Create a new repository named exactly: `YOUR_GITHUB_USERNAME` (must match your username).  
-2. Add this `README.md` to the repo root and push. GitHub will display it on your profile automatically.  
-3. Replace `YOUR_GITHUB_USERNAME` in the `img` links above with your actual username.  
-4. (Optional) Add any GIFs you like into the repo and change the `<img src="...">` to `./assets/your.gif`.
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide=issues&rank_icon=github" alt="Jeyhasri's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=ff66b2&line=ff99cc&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
-## ✨ Make it more animated / dynamic (suggestions)
-- Use custom animated GIF banner (host it in repo `assets/`).
-- Add a GIF demo of your SecureShe prototype in action.
-- Use more SVG animation services like `readme-typing-svg` (already used above).
-- Use GitHub Actions to rotate a line in the README (see workflow below).
+### 🌐 **Connect with Me**
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.icons8.com/nolan/64/github.png" width="50" title="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_LINK/" target="_blank">
+    <img src="https://img.icons8.com/nolan/64/linkedin.png" width="50" title="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/nolan/64/gmail.png" width="50" title="Gmail"/>
+  </a>
+</p>
 
+---
+
+⭐ *"Dream. Design. Deliver. — Turning ideas into impact through innovation and intent."*  
+<p align="center"><i>Last Updated: <last_updated>2025-10-07</last_updated></i></p>
